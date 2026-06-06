@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kursi>
+
+    <kurss id="1">
+        <nosaukums>Java Programmēšana (Programmatūras koda izstrāde)</nosaukums>
+        <apraksts>Stundās tiek mācīts par OOP, Java valodas izmantošanu un sintaksi, kā arī tiek apskatītas dažādas Java valodas funkcijas.</apraksts>
+        <pasniedzejs>Vadims Malickis</pasniedzejs>
+        <ilgums>110 stundas</ilgums>
+        <studentu_skaits>28</studentu_skaits>
+        <limenis>iesācēji</limenis>
+    </kurss>
+
+    <kurss id="2">
+        <nosaukums>Datu bāzu tehnoloģijas (SQL)</nosaukums>
+        <apraksts>Kursā tiek pastāstīts par relāciju datu bāzēm, lielākoties tiek pildīti praktiskie uzdevumi.</apraksts>
+        <pasniedzejs>Jeļena Matvejeva</pasniedzejs>
+        <ilgums>100 stundas</ilgums>
+        <studentu_skaits>28</studentu_skaits>
+        <limenis>vidējs</limenis>
+    </kurss>
+
+    <kurss id="3">
+        <nosaukums>Datu bāzu tehnoloģijas (NoSQL)</nosaukums>
+        <apraksts>Stundās tiek macīts par darbu ar NoSQL datubāzēm, piemēram, MongoDB.</apraksts>
+        <pasniedzejs>Aleksis Šteinburgs</pasniedzejs>
+        <ilgums>60 stundas</ilgums>
+        <studentu_skaits>15</studentu_skaits>
+        <limenis>vidējs</limenis>
+    </kurss>
+
+</kursi>
